@@ -1,0 +1,30 @@
+_repo: The-Long-Dim-Trail_39937
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39937-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hooker, Forrestine C. (Forrestine Cooper)
+    alias: Cooper, Forrestine
+    birthdate: 1867
+    deathdate: 1932
+    gutenberg_agent_id: '5736'
+    url: http://www.gutenberg.org/2009/agents/5736
+description: ''
+gutenberg_issued: '2012-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39937'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cowboys -- Fiction'
+- !lcsh 'Western stories'
+- !lcsh 'Arizona -- Fiction'
+- !lcsh 'Ranch life -- Fiction'
+- !lcc 'PS'
+title: The Long Dim Trail
+url: http://www.gutenberg.org/ebooks/39937
